@@ -21,8 +21,10 @@ Performed customer behavior, retention, and lifetime revenue analysis to enhance
 
 **🖥️ Query:** [1_customer_segmentation.sql](/1.customer_segmentation.sql)
 
-**📈 Visualization:** <img src="image
-/Customer_segmentation.png" alt="Customer_segmentation" width="500"/>
+**📈 Visualization:** 
+
+![Customer Segmentation](image/Customer_segmentation.png)
+
 
 **📊 Key Findings :** 
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
@@ -38,7 +40,6 @@ Performed customer behavior, retention, and lifetime revenue analysis to enhance
 
 - Low-Value (2% revenue): Deploy re-engagement campaigns and price-sensitive offers to boost purchase frequency and increase their revenue contribution.
 
-
 ### 2.Cohort Analysis
 ⩥ Analyzed revenue and customer counts across cohorts(common characteristic).
 
@@ -48,7 +49,10 @@ Performed customer behavior, retention, and lifetime revenue analysis to enhance
 
 **💻 Query:** [2_cohort_analysis.sql](/2.cohort_analysis.sql)
 
-**📈 Visualization:** ![Cohort_Analysis](/images/cohort_analysis%20.png)
+**📈 Visualization:** 
+
+![Cohort Analysis](image/cohort_analysis.png)
+
 
 **📊 Key Findings :**
 - Revenue per customer shows a declining trend over time, with newer cohorts (2022-2024) underperforming compared to earlier ones (2016-2021).
@@ -71,7 +75,9 @@ Performed customer behavior, retention, and lifetime revenue analysis to enhance
 
 **💻 Query:** [3_Retention_analysis.sql](/3.retention_analysis.sql)
 
-**📈 Visualization:** ![Customer_Retention](/images/Customer_retention.png)
+**📈 Visualization:** 
+
+![Customer_Retention](image/Customer_retention.png)
 
 **📊 Key Findings :**
 
