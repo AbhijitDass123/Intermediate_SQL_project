@@ -11,11 +11,6 @@ ORDER BY orderdate
 SELECT *
 FROM daily_net_revenue 
 
-
-
-
-
-
 ---Cohort_analysis---
 /*A cohort is a group of people/items sharing common characteristics during a specific time period. 
  Example: Person A and B made their 1st purchase in the same year*/
@@ -44,13 +39,6 @@ SELECT *,
     ) AS cohort_year,
     CONCAT(TRIM(surname), ' ', TRIM(givenname)) AS cleaned_name
 FROM customer_revenue cr 
-
-
-
-
-
-
-
 
 
 --Use of Views--
